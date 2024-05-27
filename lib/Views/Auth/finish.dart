@@ -52,6 +52,7 @@ class _FinishState extends State<Finish> {
                           filled: true,
                           fillColor: Colors.transparent,
                           hintText: 'Your Name',
+
                           hintStyle: TextStyle(
                             color: Colors.grey,
                             fontFamily: GoogleFonts.manrope().fontFamily,
